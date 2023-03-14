@@ -1,2 +1,1 @@
-#!/bin/bash
-shell redirections
+all tasks of shell redirections and filters
