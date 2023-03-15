@@ -1,1 +1,1 @@
-all tasks of shell redirections and filters
+shell variables expansions
